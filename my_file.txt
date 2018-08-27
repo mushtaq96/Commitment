@@ -1,0 +1,4 @@
+Git is a distributed version control, which is like
+-snapshots of VMs
+-incremental backup of files
+-Wiki versioning
